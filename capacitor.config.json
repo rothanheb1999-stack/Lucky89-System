@@ -1,0 +1,9 @@
+{
+ "appId": "com.lucky89.app",
+ "appName": "Lucky 89",
+ "webDir": "www",
+ "backgroundColor": "#080e22",
+ "android": {
+  "allowMixedContent": false
+ }
+}
